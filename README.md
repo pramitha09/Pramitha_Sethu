@@ -41,14 +41,6 @@ End-to-end retail sales and customer behavior analysis using Python and Power BI
 - **Impact:** Delivered recommendations for 15% efficiency improvement
 - **Skills:** Data Cleaning, EDA, Visualization, Business Intelligence
 
-### 📈 [Sales Performance Dashboard]
-*(Project coming soon)*
-Interactive Power BI dashboard analyzing sales metrics and KPIs
-
-### 🔍 [Customer Segmentation Analysis]
-*(Project coming soon)*
-Python-based customer clustering and behavior analysis
-
 ---
 
 ## 💼 Professional Experience Highlights
